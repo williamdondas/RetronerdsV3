@@ -16,17 +16,11 @@ form{
     
 }
 
-.botao{
-    font-family: Arial, Helvetica, sans-serif, Helvetica, sans-serif;
-    font-weight: bolder;
-    background-color: rgb(131, 81, 151);
-    color: white;
-    border-radius: 0px 5px 5px 0px;
-    border-color: rgba(0, 0, 0, 0.432);
-    border-width: 2px;
-    font-size: 1.1em;
-    padding-top: 11px;
-    padding-bottom: 11px;
+
+.lupa{
+    height: 30px;
+    width: 35px;
+    padding-top: 6px;
 }
 
 .input-padrao{
