@@ -16,11 +16,26 @@ form{
     
 }
 
+.botao{
+    border-radius: 0px 8px 8px 0;
+    border-color:white;
+    border-width: 0.8px;
+    margin-top: 1.8px;
+    padding-top: 5px;
+    padding-bottom: 1px;
+    
+}
+.botao:hover{
+    background-color: rgb(248, 169, 23);
+    transition: 0.5s;
+    border-color: white;
+    border-radius: 0px 8px 8px 0;
+}
 
 .lupa{
     height: 30px;
     width: 35px;
-    padding-top: 6px;
+       
 }
 
 .input-padrao{
@@ -28,9 +43,10 @@ form{
     font-size: 1.1em;
     text-align: center;
     width: 300px;
-    border-radius: 5px 0px 0px 5px;
-    padding-top: 9px;
-    padding-bottom: 9px;
+    border-radius: 8px 0px 0px 8px;
+    border-color: white;
+    border-width: 0.8px;
+    
     
 }
 
